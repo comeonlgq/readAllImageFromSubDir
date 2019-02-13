@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\projects\vs_projects\readimagefromall\readimagefromall\main.cpp(21): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+  readImageFromAll.vcxproj -> D:\Projects\VS_Projects\readImageFromAll\x64\Debug\readImageFromAll.exe
+  readImageFromAll.vcxproj -> D:\Projects\VS_Projects\readImageFromAll\x64\Debug\readImageFromAll.pdb (Partial PDB)
